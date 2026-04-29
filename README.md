@@ -30,3 +30,19 @@ SIMPLE EXPLANATION:
 
 KEY POINT:
  Cloud = Just computers in big data centers that you rent instead of own System.
+
+ Day 2:
+ What i Learned:
+ In Cloud Computing i Learnt that we have two main cloud model.
+Which Are:
+1. Service Model( How you use the Cloud)
+2. Deployment Model( how the cloud is set up)
+
+What is Service Model and Deployment Model:
+ 1. Service Model describes what part of the cloud service we use or control
+ 2. Deployment Model describes where the cloud is hosted and who can access it 
+
+ KEY POINT:
+ Service Model = What you use
+ Deployment Model = Where it runs and who can access  
+ 
