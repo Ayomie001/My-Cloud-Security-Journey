@@ -30,7 +30,7 @@ SIMPLE EXPLANATION:
 
 KEY POINT:
  Cloud = Just computers in big data centers that you rent instead of own System.
-
+-----------------------------------------------------------------------------------------------------------
  Day 2:
  What i Learned:
  In Cloud Computing i Learnt that we have two main cloud model.
@@ -45,4 +45,34 @@ What is Service Model and Deployment Model:
  KEY POINT:
  Service Model = What you use
  Deployment Model = Where it runs and who can access  
- 
+ -------------------------------------------------------------------------------------------------------------
+
+
+ Day 3:
+ What i Learned:
+  Different types of Service and Deployment model:
+  1. There're three type of service model:
+    a. Iaas (Infrastructure as a service)
+    b. Paas (Platform as a service)
+    c. Saas (Software as a service)
+
+2. There're also three different type of deployment model
+  a. Public Cloud
+  b. Private Cloud
+  c. Hybrid Cloud
+
+
+# Now let go deeper into different types of service and deployment model and what they do
+
+1a. What does Iaas stands for ? 
+  - Iaas stand for INFRASTRUCTURE AS A SERVICE
+     . Iaas is like renting a building and you'll have to decorate it and arrange it by oneself.
+You Rent :
+  . Servers, Storage, Network
+    ---
+You Control:
+  . OS, Apps, Security, Settings
+
+
+1b. What does Paas Stands for?
+ - Paas Stand for Platform as a service
